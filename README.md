@@ -6,6 +6,30 @@ This is a themed, interactive To-Do List application built using HTML, Tailwind 
 
 The application helps users organize daily tasks, track progress, and save their tasks in the browser.
 
+
+## Live Demo
+
+Try my To-Do List App here:
+
+[**View My To-Do List App**](https://delightful-meerkat-bf7d90.netlify.app/)
+
+## Features
+
+- Add new tasks
+- Edit existing tasks
+- Delete tasks
+- Mark tasks as completed
+- Search tasks
+- Filter tasks
+- Save tasks using local storage
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- Netlify for deployment
+
 ## Features
 
 ### Required Features
